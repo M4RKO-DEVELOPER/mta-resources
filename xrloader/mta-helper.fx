@@ -13,7 +13,7 @@
 //      1. Variables
 //      2. Renders states (parital - includes only those that are used the most)
 //      3. Helper functions
-//      4. Generate normals macros
+//      4. Generate normals macross
 //
 
 
